@@ -1,7 +1,7 @@
 import os
 
 # Токен бота из переменных окружения
-BOT_TOKEN = os.getenv('BOT_TOKEN', '8133516499:AAFKvks0qTMDgiCiJn58ESLs9KtfV8CEoac')
+BOT_TOKEN = os.getenv('BOT_TOKEN', 'your_bot_token_here')
 
 # Настройки базы данных
 DATABASE_NAME = "habit_breaker.db"
